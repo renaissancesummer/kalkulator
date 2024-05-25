@@ -14,10 +14,10 @@ Masukkan library bernama mysql-connector-j-8.3.0.jar yang terdapat pada folder "
 Untuk memasukkan library, temen-temen dapat melakukan klik kanan pada bagian library, kemudian pilih Add JAR/Folder. Perhatikan gambar berikut.
 Langkah_2
 
-Setelah itu, carilah folder bernama "TOOLS YANG DIBUTUHKAN", lalu pilih file bernama mysql-connector-j-8.3.0.jar. Pada bagian kanan, pastikan temen-temen memilih yang "Relative Path". Setelah itu, klik "Open". Perhatikan gambar berikut.
+Setelah itu, carilah folder bernama "TOOLS YANG DIBUTUHKAN", lalu pilih file bernama mysql-connector-j-8.3.0.jar. <br>Pada bagian kanan, pastikan temen-temen memilih yang "Relative Path". <br>Setelah itu, klik "Open". Perhatikan gambar berikut.
 Langkah_3
 
-Nyalakan xampp, buatlah sebuah database bernama upnvy.
+Nyalakan xampp, buatlah sebuah database bernama upnvy. <br>
 Import file bernama upnvy.sql yang terdapat pada folder "TOOLS YANG DIBUTUHKAN".
-Jalankan program.
-Analisislah kode yang terdapat pada program.
+<br>Jalankan program.
+<br>Analisislah kode yang terdapat pada program.
