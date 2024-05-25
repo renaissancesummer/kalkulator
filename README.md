@@ -10,14 +10,14 @@ Struktur Program
 Seperti yang dapat dilihat, kita memisahkan antara Model, View, dan Controller menjadi ketiga package yang terpisah. Hal tersebut nantinya akan memudahkan kita dalam mengoding program kita ketika sudah program tersebut sudah memiliki banyak fitur.
 
 How to setup
-Masukkan library bernama mysql-connector-j-8.3.0.jar yang terdapat pada folder "TOOLS YANG DIBUTUHKAN".
-Untuk memasukkan library, temen-temen dapat melakukan klik kanan pada bagian library, kemudian pilih Add JAR/Folder. Perhatikan gambar berikut.
+<br><br>Masukkan library bernama mysql-connector-j-8.3.0.jar yang terdapat pada folder "TOOLS YANG DIBUTUHKAN".
+<br><br>Untuk memasukkan library, temen-temen dapat melakukan klik kanan pada bagian library, kemudian pilih Add JAR/Folder. Perhatikan gambar berikut.
 Langkah_2
 
-Setelah itu, carilah folder bernama "TOOLS YANG DIBUTUHKAN", lalu pilih file bernama mysql-connector-j-8.3.0.jar. <br>Pada bagian kanan, pastikan temen-temen memilih yang "Relative Path". <br>Setelah itu, klik "Open". Perhatikan gambar berikut.
+<br><br>Setelah itu, carilah folder bernama "TOOLS YANG DIBUTUHKAN", lalu pilih file bernama mysql-connector-j-8.3.0.jar. <br>Pada bagian kanan, pastikan temen-temen memilih yang "Relative Path". <br>Setelah itu, klik "Open". Perhatikan gambar berikut.
 Langkah_3
 
-Nyalakan xampp, buatlah sebuah database bernama upnvy. <br>
+<br><br>Nyalakan xampp, buatlah sebuah database bernama upnvy. <br><br>
 Import file bernama upnvy.sql yang terdapat pada folder "TOOLS YANG DIBUTUHKAN".
-<br>Jalankan program.
-<br>Analisislah kode yang terdapat pada program.
+<br><br>Jalankan program.
+<br><br>Analisislah kode yang terdapat pada program.
